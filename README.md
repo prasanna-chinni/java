@@ -26,4 +26,24 @@ Java works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc.)
 Some PCs might have Java already installed.
 
 * To check if you have Java installed on a Windows PC, search in the start bar for Java or type the following in Command Prompt (cmd.exe):
+Java - What is OOP?
+## OOP stands for Object-Oriented Programming.
+
+* Procedural programming is about writing procedures or methods that perform operations on the data, while object-oriented programming is about creating objects that contain both data and methods.
+
+### Object-oriented programming has several advantages over procedural programming:
+
+*OOP is faster and easier to execute*
+*OOP provides a clear structure for the programs*
+# create link
+[prasanna](www.google.com)
+
+# create table
+s.no|name|rno
+----|----|---
+1|prasanna|579
+2|akhila|561
+3|sahera|583
+4|alekya|562
+
 
