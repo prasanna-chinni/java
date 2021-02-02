@@ -49,3 +49,8 @@ s.no|name|rno
 # insert image
 ![cat](https://github.com/prasanna-chinni/java/blob/main/download%20(1).jpg)
 
+    a=4
+    b=6
+    c=a+b
+    print("sum of {} and {} is {}".format(a,b,c))
+ 
